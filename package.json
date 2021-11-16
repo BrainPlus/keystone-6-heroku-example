@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": ">=14.13"
+    "node": "14.13.x"
   },
   "scripts": {
     "dev": "keystone-next dev",
